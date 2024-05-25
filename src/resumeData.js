@@ -1,5 +1,5 @@
 let resumeData = {
-    "name": "Uladzimir Treihis",
+    "name": "Oki Sugiyama",
     "role": "Frontend Developer and Data Scientist",
     "roleDescription": "I am a tutor, learner, programmer and the guy who made this website. And much more inspirational info",
     "socialLinks":[
@@ -16,6 +16,11 @@ let resumeData = {
         {
           "name":"skype",
           "url":"http://facebook.com/",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url": "https://twitter.com/",
           "className":"fa fa-twitter"
         }
       ],
@@ -37,6 +42,13 @@ let resumeData = {
         "YearOfPassing":"2016",
         "Achievements":"++++++++++"
       },
+      {
+        "UniversityName":"Musashi",
+        "specialization":"Major in coding",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2020",
+        "Achievements":"++++++++++"
+      }
     ],
     "work":[
       {
@@ -91,6 +103,12 @@ let resumeData = {
       {
         "name":"Code Manager",
         "description":"mobileapp",
+        "imgurl":"images/portfolio/coding.jpg",
+        "url": "https://www.wikipedia.org/"
+      },
+      {
+        "name":"A",
+        "description":"B",
         "imgurl":"images/portfolio/coding.jpg",
         "url": "https://www.wikipedia.org/"
       }
